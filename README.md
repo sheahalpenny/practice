@@ -1,2 +1,2 @@
-# practice
- intro.to.coding
+#README
+This is my first repository!
